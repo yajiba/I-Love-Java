@@ -1,4 +1,8 @@
 AKO RANI AYAW ILOGA!
 OKAY
 BANTAY LANG KA!
+<<<<<<< HEAD
 Reply ragud dayon!
+=======
+LAGI!
+>>>>>>> taotao
